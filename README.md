@@ -1,6 +1,10 @@
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
-## 🚩 Challenge 2: 🏵 Token Vendor 🤖
+## 🚩 Challenge 2: 🏵 Token Vendor 🤖 by SpaceDev 
+
+Live: https://se-challenge-2-spacedev.surge.sh
+
+![image](https://user-images.githubusercontent.com/81698760/232161347-2cff8ffb-6071-416e-9a6d-1349115fd076.png)
 
 
 > 🤖 Smart contracts are kind of like "always on" *vending machines* that **anyone** can access. Let's make a decentralized, digital currency. Then, let's build an unstoppable vending machine that will buy and sell the currency. We'll learn about the "approve" pattern for ERC20s and how contract to contract interactions work.  
